@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Codeally Simplified Editor for TinyMCE  
- * Plugin URI: https://github.com/oldrup/cdly-tinymce-simplified
+ * Plugin URI: https://github.com/oldrup/codeally-simplified-editor-tinymce
  * Description: Limits TinyMCE formatting options to basic elements to maintain clean content semantics.
  * Version: 1.2.2
  * Author: Codeally
