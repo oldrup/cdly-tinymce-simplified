@@ -75,6 +75,9 @@ Your saved content remains completely unchanged in the database. Disabling the p
 
 == Changelog ==
 
+= 1.2.2 =
+* Renamed plugin to Codeally Simplified Editor for TinyMCE and updated text domain to align with WordPress.org submission guidelines.
+
 = 1.2.1 =
 * Updated readmes to reflect updated plugin name
 
