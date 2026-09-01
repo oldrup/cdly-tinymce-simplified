@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Codeally - TinyMCE Simplified
+ * Plugin Name: Codeally Simplified Editor for TinyMCE  
  * Plugin URI: https://github.com/oldrup/cdly-tinymce-simplified
  * Description: Limits TinyMCE formatting options to basic elements to maintain clean content semantics.
- * Version: 1.2.1
- * Author: Bjarne Oldrup
- * Author URI: https://oldrup.dk/
- * Text Domain: cdly-tinymce-simplified
+ * Version: 1.2.2
+ * Author: Codeally
+ * Author URI: https://codeally.dk/
+ * Text Domain: codeally-simplified-editor-tinymce
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires PHP: 8.2
@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-namespace Codeally\TinyMceSimplified;
+namespace Codeally\SimplifiedEditorTinyMCE;
 
 if (!defined('ABSPATH')) {
     exit;

@@ -1,10 +1,10 @@
-=== Codeally - TinyMCE Simplified ===
+=== Codeally Simplified Editor for TinyMCE ===
 Contributors: oldrup
 Tags: tinymce, pods, acf, editor, wysiwyg
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 8.2
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Simplifies TinyMCE to help creators focus on writing, while maintaining clean HT
 
 == Description ==
 
-Codeally - TinyMCE Simplified refines the WordPress rich-text editor into a cleaner, focused editing environment. By restricting the toolbar to core formatting – bold, italics, strikethrough, lists, links, undo/redo, and clear formatting – it creates an intuitive experience for day-to-day content creators.
+Codeally Simplified Editor for TinyMCE refines the WordPress rich-text editor into a cleaner, focused editing environment. By restricting the toolbar to core formatting – bold, italics, strikethrough, lists, links, undo/redo, and clear formatting – it creates an intuitive experience for day-to-day content creators.
 
 This setup removes visual clutter and prevents accidental styling issues while preserving helpful copy-paste markup. Core inline elements (bold text, italics, links, lists, and images) survive pastes intact, while background colors, custom fonts, inline CSS, and heading tags are cleanly stripped.
 
@@ -80,7 +80,7 @@ Your saved content remains completely unchanged in the database. Disabling the p
 
 = 1.2.0 =
 * Added support for `<img>` tags to accommodate media upload workflows.
-* Updated branding to Codeally - TinyMCE Simplified.
+* Updated branding to Codeally Simplified Editor for TinyMCE.
 
 = 1.1.0 =
 * Improved paste handling: preserves essential markup (bold, italics, links, lists) while stripping inline CSS, spans, classes, and heading tags.
